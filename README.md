@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham
 - 👀 I’m interested in coding (problem solving)
-- 🌱 I’m currently Cloud 
+
 
 - 
 
